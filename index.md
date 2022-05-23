@@ -1,5 +1,14 @@
 ## 欢迎来到知识库
 
+![](/imgs/one.png)
+![](/imgs/two.png)
+![](/imgs/three.png)
+![](/imgs/four.png)
+![](/imgs/five.png)
+![](/imgs/six.png)
+![](/imgs/seven.png)
+![](/imgs/eight.png)
+
 这是一个用于收集、整理和编辑信息流的一站式仓库，助力您在信息洪流中摘录有价值的内容，进行整理沉淀再输出，打造自己的知识体系！
 
 ### 一.收集信息流类型
