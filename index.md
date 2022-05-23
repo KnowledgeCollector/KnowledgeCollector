@@ -1,38 +1,38 @@
 ## Welcome to GitHub Pages
 ## 欢迎来到知识库
 
-You can use the [editor on GitHub](https://github.com/FuckLifeeeee/FuckLifeeeee/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### 这是一个用于收集、整理和编辑信息流的一站式仓库，助力您在信息洪流中摘录有价值的内容，进行整理沉淀再输出，打造自己的知识体系！
 
-### Markdown
+### 一.收集信息流类型
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. 文本
+2. Markdown
+3. 网页
+支持将知识内容保存为TXT，MarkDown，图片与PDF文件，支持网页内容离线保存，支持提取微信公众号、知乎及今日头条文章正文为Md文档保存。
 
-```markdown
-Syntax highlighted code block
+### 二.收集方式
 
-# Header 1
-## Header 2
-### Header 3
+1. 从其他App内分享到应用内
+2. 悬浮摘录小窗口
+3. 知识库App设置中开启快速复制创建
+4. 导入浏览器书签
+5. 导入本地文件（.txt  .md .mht）
 
-- Bulleted
-- List
+### 三.分类与编辑
 
-1. Numbered
-2. List
+1. 支持分类+标签扁平化分类管理
+2. 支持树状图立体构建知识体系
+3. 提供文本、Markdown与链接编辑
+4. 提供知识碎片、全文检索、网页笔记、网页内查找等辅助功能
+5. 支持Gitee、Github图床，支持双向链接
 
-**Bold** and _Italic_ and `Code` text
+### 四.备份与恢复
 
-[Link](url) and ![Image](src)
-```
+1. 本地备份
+2. WebDav云备份
+3. 一键导出
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 五.偏好设置
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FuckLifeeeee/FuckLifeeeee/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+保密柜，夜间模式，主题换肤，字体切换，应用指纹加密，手势密码等功能更好的提高您的使用体验！
